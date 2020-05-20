@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/ghostWhite</color>
+    <color name="colorPrimaryDark">@color/ghostWhite</color>
+    <color name="colorAccent">@color/darkSlateBlue</color>
+
+    <color name="gray11">#1E1E1E</color>
+    <color name="gray21">#363636</color>
+    <color name="gray31">#4F4F4F</color>
+
+    <color name="darkSlateBlue">#483D8B</color>
+    <color name="slateBlue3">#6959CD</color>
+
+    <color name="steelBlue">#4682B4</color>
+    <color name="lightSteelBlue">#B0C4DE</color>
+    <color name="ghostWhite">#F8F8FF</color>
+</resources>
